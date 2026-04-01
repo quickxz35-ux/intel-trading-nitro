@@ -1,0 +1,9 @@
+# High-Performance Intel AI Stack
+modin[all]
+scikit-learn-intelex
+intel-extension-for-pytorch
+intel-extension-for-tensorflow
+optimum-intel[nncf,openvino]
+bigdl-chronos[pytorch]
+nncf
+ipp-cp
